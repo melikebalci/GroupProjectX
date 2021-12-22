@@ -3,5 +3,5 @@ public class TC_002 {
 
     //work2 by muni
 
-    //test case has finished by munii
+    //test case has finished by muniii
 }
